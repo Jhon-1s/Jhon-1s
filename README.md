@@ -8,9 +8,9 @@ y soluciones tecnologicas orientadas a negocios, educacion o salud, experiencia 
 
 ---
 
-## 🚀 Formacion academica
+## 🎓 Formacion academica
 
-- 🎓 **Formación Académica:**
+- 
   - **Universidad Tecnológica de Xicotepec de Juárez**.
   - **Tecnologias de la Informacion** 
   - **Especialidad: T.S.U Desarrollo de Software Multiplataforma**
